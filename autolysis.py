@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1LLS6h5CElWcft-fmSxscSqxCxRYJqLTG
 """
 
+pip install seaborn
+
 import os
 import sys
 import pandas as pd
