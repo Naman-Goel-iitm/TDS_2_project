@@ -9,7 +9,7 @@
 #     "seaborn",
 #     "chardet",
 #     "matplotlib",
-#     "OS",
+#     "os",
 #     "sys",
 # ]
 # ///
