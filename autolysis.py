@@ -8,7 +8,7 @@
 #     "rich",
 #     "seaborn",
 #     "chardet",
-#     "matlplotlib",
+#     "matplotlib",
 #     "OS",
 #     "sys",
 # ]
